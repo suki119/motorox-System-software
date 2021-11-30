@@ -5,3 +5,14 @@ Motorox Automobiles is one of the best automobile workshops in Moratuwa which of
 
 In this web application customer details management, vehicle details management, employee details management, supplier details management, invoice management, job sheet management, stock management, and purchase order management are implemented
 
+<img width="760" alt="Screenshot 2021-12-01 at 01 10 21" src="https://user-images.githubusercontent.com/82136162/144116221-735bf56c-fab0-40eb-8f67-ccba4bbe6e5f.png">
+
+// Invoicemanagement
+
+Job card and inventory management function deals with the final billing part of the work. In here job card means the final bill. It contains the all the work and related amounts for that. With manual work it hard to note down all the items and prices. It can be time taken and less security. Finalization of the billing is harder with calculation sometimes bill amounts (prices) can be too large and difficult to calculate the total. There for it is essential to have job card management faction in workshop like this.
+Only the admin, stockkeeper and manger can access this feature. In here admin can select or choose the specific item with relevant prices or can add all the prices of the work including the items and the amount of quantity. When adding those items to the bill it automatically calculates the total bill. After finishes the final part of the bill it can generate pdf of bill or can print the final bill. the bill is unique to the specific customer and vehicle. there for bill should need to contain bill number, vehicle number and customer name.by using bill number and vehicle number we can search specific bill related to that.at any point in the time of job it can be search the specific bill and can update, delete and save.
+
+// Job Card
+
+In here admin can select the vehical number that in the system and also can select Items for the system (It gives the related price and the name)
+![Screenshot 2021-10-13 at 03 05 58](https://user-images.githubusercontent.com/82136162/144116523-ae505b67-2d38-403c-843e-e4b8ea29b2ab.png)
