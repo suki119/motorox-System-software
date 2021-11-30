@@ -14,5 +14,29 @@ Only the admin, stockkeeper and manger can access this feature. In here admin ca
 
 // Job Card
 
-In here admin can select the vehical number that in the system and also can select Items for the system (It gives the related price and the name)
+1.In here admin can select the vehical number that in the system and also can select Items for the system (It gives the related price and the name)
+ 
+2.Calculations happens according to the Items.
+
+3.Date , Time , Job Number generate automatically
+
+
 ![Screenshot 2021-10-13 at 03 05 58](https://user-images.githubusercontent.com/82136162/144116523-ae505b67-2d38-403c-843e-e4b8ea29b2ab.png)
+
+// Job Card Search 
+
+
+1.In here user can search the Job card according to the Date , Amount , Vehical Number , Job Number
+
+![Screenshot 2021-10-13 at 03 13 47](https://user-images.githubusercontent.com/82136162/144118157-2dc5a9a7-e519-4245-865c-1c7242fc0e36.png)
+
+// All the Validation Parts
+<img width="841" alt="Screenshot 2021-12-01 at 01 34 40" src="https://user-images.githubusercontent.com/82136162/144119736-524aa7af-ecf6-4e04-b6e8-1fc7ddf0c2c1.png">
+
+
+// Report Generation
+
+![Screenshot 2021-10-13 at 03 32 36](https://user-images.githubusercontent.com/82136162/144120021-2e42819b-359a-411b-b3f0-51cbe80971dc.png)
+
+
+
