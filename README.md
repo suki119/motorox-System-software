@@ -7,6 +7,11 @@ https://github.com/Thimira99/motrox-frontend
 ..CODE BACKEND
 https://github.com/Thimira99/motrox-backend
 
+..PROJECT REPORT
+
+[REPORT.pdf](https://github.com/suki119/motorox-System-software/files/7628568/REPORT.pdf)
+
+
 
 ....Overallscope....
 
